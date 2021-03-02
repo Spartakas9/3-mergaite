@@ -1,17 +1,24 @@
-# 3-mergaite
+![LICENSE](https://img.shields.io/badge/license-mit-blue.svg?style=flat-square)
+![Security Status](https://img.shields.io/security-headers?label=Security&url=https%3A%2F%2Fgithub.com&style=flat-square)
+![Gluten Status](https://img.shields.io/badge/Gluten-Free-green.svg)
+![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
 
-Čia mano antrasis projektas.
+# Mergaite
 
-# Key features
+_25 Group website project_
 
-- pirmas
-- antras
-- trečias
+Site published at https://github.com/Spartakas9/3-mergaite
 
-## Link
+Design: [Mergaite](https://spartakas9.github.io/3-mergaite/)
 
-https://spartakas9.github.io/3-mergaite/
+## Project features
+
+- HTML
+- CSS
+- relative paths
+- Github pages
+
 
 ## Author
 
-Ignas Kasparaitis [Github](https://github.com/Spartakas9)
+[Ignas Kasparaitis](https://github.com/Spartakas9)
