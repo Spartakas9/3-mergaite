@@ -27,28 +27,29 @@ header > img {
 header > nav {
     display: inline-block;
     float: right;
-    margin-top: 15px;
+    margin-top: 6px;
 }
 
 a {
     display: inline-block;
     float: left;
+    padding: 4px;
+    padding-left: 5px;
+    padding-right: 5px;
     color: #9E9E9E;
-    text-decoration: none;
-    line-height: 20px;
     font-size: 18px;
-    margin-left: 15px;
+    line-height: 20px;
+    text-decoration: none;
+    border: 5px solid transparent;
+    border-radius: 19px;
 }
 
 a:nth-child(5) {
-    padding: 4px;
-    padding-left: 20px;
-    padding-right: 20px;
-    margin-top: -9px;
-    margin-left: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: 15px;
+    border-color: #9E9E9E;
     text-transform: uppercase;
-    border: 5px solid #9E9E9E;
-    border-radius: 19px;
 }
 
 section {
